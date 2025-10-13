@@ -1,25 +1,25 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá 👋 Tudo bem?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Meu nome é Alessandro Coran Filho, sou desenvolvedor back-end - java</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Atualmente estudando Java, Kotlin, Flutter, JavaFX, SpringBoot e MySQL 📚</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Linguagens</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg)" height="40" alt="MySQL logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
