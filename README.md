@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Atualmente estudando Java, Kotlin, Flutter, JavaFX, SpringBoot e MySQL 📚</p>
+<p align="left">✨ Atualmente estudando Java, JavaFX, Javascript, SpringBoot, Git, SQLite, MySQL, HTML e CSS 📚</p>
 
 ###
 
@@ -21,16 +21,25 @@
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL logo"  />
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40" alt="springboot logo"/>
   <img width="12" />
+  
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/flutter/flutter-plain.svg" height="40" alt="flutter logo"  />
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
   <img width="12" />
+  
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL logo"  />
+  <img width="12" />
+  
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg" height="40" alt="html logo"  />
   <img width="12" />
+  
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
 </div>
