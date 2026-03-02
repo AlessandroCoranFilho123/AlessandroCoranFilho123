@@ -11,7 +11,6 @@
 ## ✨ Sobre Mim
 - 🎓 Estudando: **Java**, **JavaFX**, **JavaScript**, **Spring Boot**, **Git**, **SQLite**, **MySQL**, **HTML** e **CSS**.
 - 💼 Foco: Desenvolvimento back-end, debug e integração de sistemas.
-- 🌟 Hobbies: Games (Minecraft, Terraria), basquete (NBA fanático!) e anime (One Piece é vida).
 - 📍 Limeira, SP, Brasil.
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -43,7 +42,6 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroCoranFilho123&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlessandroCoranFilho123&theme=radical&hide_border=true"/>
 </div>
 
