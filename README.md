@@ -5,7 +5,7 @@
 </div>
 
 <p align="left">
-  Sou desenvolvedor na área de back-end, com foco em Java. Atualmente estou estudando o framework Spring Boot, linguagens focadas para bancos de dados como MySQL e SQLite, e versionamento com Git. Cursando 1º semestre análise e desenvolvimento de sistemas Fatec - Americana SP.
+  Sou desenvolvedor na área de back-end, com foco em Java. Atualmente estou estudando o framework Spring Boot, linguagens focadas para bancos de dados como MySQL e SQLite, e versionamento com Git. Cursando 2º semestre análise e desenvolvimento de sistemas Fatec - Americana SP.
 </p>
 
 ## ✨ Sobre Mim
