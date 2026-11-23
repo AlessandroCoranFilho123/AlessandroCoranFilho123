@@ -21,8 +21,10 @@ Building software, exploring software engineering, and turning ideas into functi
 </div>
 
 ---
+<div align="center">
 
 ## About Me
+</div>
 
 I'm an **Analysis and Systems Development** student at **FATEC Americana**, Brazil, currently in my second semester.
 
@@ -35,6 +37,8 @@ I enjoy developing practical applications, exploring different technologies, deb
 - 🌱 Currently learning Spring Boot, C and improving my database knowledge.
 - 🔍 Interested in backend development, desktop applications, and software architecture.
 - 🛠️ Focused on practical projects and continuous improvement.
+
+<div align="center">
 
 ## Tech Stack
 
@@ -73,6 +77,7 @@ I enjoy developing practical applications, exploring different technologies, deb
 ---
 
 ## Featured Projects
+</div>
 
 ### [Smart Finance](https://github.com/AlessandroCoranFilho123/smart-finance)
 
